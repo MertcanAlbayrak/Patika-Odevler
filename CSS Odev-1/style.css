@@ -1,0 +1,26 @@
+/* Body */
+/* Section*/
+
+section {
+    border-style: double;
+    background-color: #F8E2CF;
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Raleway', sans-serif;
+    color: #F9F9F9;
+    font-weight: bold;
+
+    
+}
+p {font-size: 25px;
+    font-style: italic;
+    color:#57837B;
+    text-align: center;
+
+}
+
+h1 { color:#57837B;
+    font-size: 100px;
+    font-family: 'Abril Fatface', cursive;
+    letter-spacing: 20px;
+}
